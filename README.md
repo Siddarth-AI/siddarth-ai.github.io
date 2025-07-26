@@ -1,8 +1,8 @@
 # Data Scientist
 
 ## Education
-MS in Business Analytics | Iowa State University (_May 2025_)
-BE in Industrial Engineering | PSG College of Technology (_May 2019_)
+- MS in Business Analytics | Iowa State University (_May 2025_)
+- BE in Industrial Engineering | PSG College of Technology (_May 2019_)
 
 ## Work Experience
 **Student Business Analyst  @ Iowa State University (_Aug 2024 - May 2025_)**
