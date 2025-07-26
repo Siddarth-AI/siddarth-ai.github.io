@@ -1,5 +1,3 @@
-# siddarth-ai.github.io
-
 ### Data Scientist
 
 ### Education
